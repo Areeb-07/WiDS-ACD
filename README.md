@@ -3,6 +3,6 @@ This is a repository containing files associated with a project done under Winte
 
 Links to Colab Notebooks-
 
-[Detection Using Pre-trained Model](https://colab.research.google.com/drive/11vVPjGLcZjSTgv909Tdk6kJ2uHHT7Vxj?usp=sharing)
+[Detection Using Pre-trained Model](https://colab.research.google.com/drive/1ntgiF4_RPqALsDtwsMAKdAHPri-hjDZw?usp=sharing)
 
 [Detection Using Trained Model](https://colab.research.google.com/drive/1z-nFmTv5M1bE-6nyCOpfgIQVcxk4lZkg?usp=sharing)
